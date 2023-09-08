@@ -1,0 +1,25 @@
+{
+  "user": [
+    {
+      "id": 7,
+      "name": "anzar",
+      "email": "shaikh@",
+      "phone": "823826372",
+      "active": true
+    },
+    {
+      "id": 8,
+      "name": "Anzar 1",
+      "email": "anzar@32",
+      "phone": "83616391636",
+      "active": true
+    },
+    {
+      "id": 9,
+      "name": "shaikh",
+      "email": "@ashhaikhsh",
+      "phone": "183717318",
+      "active": true
+    }
+  ]
+}
